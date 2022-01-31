@@ -38,8 +38,18 @@ Ravi	EMP1003	Finance
 <br/>
 '%'--><br/>
 '-'-->single character
-
-
 <br/>
-![image](https://user-images.githubusercontent.com/98251620/151825291-b6f90214-0526-449d-8b5d-cba9de878f31.png)
+#use database <br/>
+use IT_Department;
+<br/>
+Select * from employee;
+<br/>
+#print Employee_Name four letter
+<br/>
+select * from employee where  Employee_Name like 'V%';
+# Sub queries
+<br/>
+select * from employee where  Employee_Name =(select Employee_Name from employee where Employee_Id="108");
+![image](https://user-images.githubusercontent.com/98251620/151840336-357e17a4-42d0-49dd-9c4e-6ac213eb5142.png)
+
 
