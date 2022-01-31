@@ -47,6 +47,7 @@ Select * from employee;
 #print Employee_Name four letter
 <br/>
 select * from employee where  Employee_Name like 'V%';
+
 # Sub queries
 <br/>
 select * from employee where  Employee_Name =(select Employee_Name from employee where Employee_Id="108");
