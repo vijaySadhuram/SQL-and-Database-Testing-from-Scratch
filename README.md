@@ -33,6 +33,13 @@ Vijay	EMP1001	HR
 Sanjay	EMP1002	IT
 Ravi	EMP1003	Finance
 ![image](https://user-images.githubusercontent.com/98251620/151823527-ec2cbbb1-6460-41ba-97a0-7753c0d1ac4e.png)
+
+# Regular Expression
+<br/>
+'%'--><br/>
+'-'-->single character
+
+
 <br/>
 ![image](https://user-images.githubusercontent.com/98251620/151825291-b6f90214-0526-449d-8b5d-cba9de878f31.png)
 
