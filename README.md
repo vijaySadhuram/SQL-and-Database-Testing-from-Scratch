@@ -1,4 +1,4 @@
-# SQL-and-Database-Testing-from-Scratch
+# SQL and Database Testing from Scratch
 
 # Introduction Data_Base
 Data_Base is collection of tables
